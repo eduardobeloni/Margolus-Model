@@ -1,0 +1,12 @@
+This is a simple project I've created ages ago when I was doing some research at the university.
+It has no indent standard and no good habits of coding at all. But it works fine.
+
+It is a simulator of a celular automata based on the Margolus Neighbourhood.
+
+To compile, you'll need libgtkmm-2.4.
+
+Compile
+$ make
+
+Clean
+$ make clean
